@@ -77,3 +77,15 @@
 // } else {
 //     console.log("Você não teve lucro");
 // }
+
+let numeros =[];
+for (let i = 0; i < 4; i++){
+ let num = parseFloat(prompt("Digite um número:"));
+ numeros.push(num);
+}
+
+numeros.sort((a,b) => a - b);
+
+console.log(numeros)
+
+
