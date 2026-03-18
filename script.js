@@ -150,3 +150,10 @@
 //     default:
 //         console.log("Código inválido");
 // }
+
+let a = 10;
+let b = 5;
+    
+console.log("diferença: " + (a - b));
+console.log("dobro da primeira + tripo da segunda: " + (2 * a + 3 * b));
+console.log("multiplicação: " + (a * b));   
