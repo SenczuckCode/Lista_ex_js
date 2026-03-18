@@ -90,3 +90,12 @@
 //     console.log("Números em ordem crescente: " + numeros);
 
 
+// let numero = Number(prompt("Digite um número inteiro:"));
+
+// if (numero % 2 == 0) {
+//     numero += 1;
+// } else {
+//     numero += 1;
+// }
+// console.log("Resultado:", numero);
+
