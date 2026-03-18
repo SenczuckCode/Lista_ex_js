@@ -166,3 +166,14 @@
 // } else {
 //     console.log(b, a);
 // }
+
+// let nome = prompt("Digite seu nome:");
+// let salario = parseFloat(prompt("Digite seu salário:"));   
+
+// let desconto = salario * 0.08;
+// let liquido = salario - desconto;   
+
+// console.log("Nome: " + nome);
+// console.log("Salário bruto:", salario);
+// console.log("Desconto INSS:", desconto);
+// console.log("Salário líquido:", liquido);
