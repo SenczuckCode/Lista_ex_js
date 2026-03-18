@@ -66,6 +66,7 @@
 
 // }
 
+
 // let saldo_final = ganho_total - gastos_total;
 
 // console.log("Ganho total do ano: " + ganho_total);
@@ -76,4 +77,16 @@
 //     console.log("Você teve lucro");
 // } else {
 //     console.log("Você não teve lucro");
+// }    
+
+
+
+// let numeros = [];
+
+// for(let i = 0; i < 4; i++) {
+//     numeros.push(parseFloat(prompt("Digite um número:")));      
 // }
+//     numeros.sort((a , b) => a - b);
+//     console.log("Números em ordem crescente: " + numeros);
+
+
