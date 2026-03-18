@@ -99,3 +99,10 @@
 // }
 // console.log("Resultado:", numero);
 
+// let letra = prompt("Digite uma letra:").toLowerCase();  
+
+// if ("aeiou".includes(letra)) {
+//     console.log("A letra digitada é uma vogal");
+// } else {
+//     console.log("A letra digitada é uma consoante");
+// }
