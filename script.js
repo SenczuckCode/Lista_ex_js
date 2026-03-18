@@ -151,9 +151,18 @@
 //         console.log("Código inválido");
 // }
 
-let a = 10;
-let b = 5;
+// let a = 10;
+// let b = 5;
     
-console.log("diferença: " + (a - b));
-console.log("dobro da primeira + tripo da segunda: " + (2 * a + 3 * b));
-console.log("multiplicação: " + (a * b));   
+// console.log("diferença: " + (a - b));
+// console.log("dobro da primeira + tripo da segunda: " + (2 * a + 3 * b));
+// console.log("multiplicação: " + (a * b));   
+
+// let a = Number(prompt("Digite o primeiro valor:"));
+// let b = Number(prompt("Digite o segundo valor:"));
+
+// if (a > b) {
+//     console.log(a, b);
+// } else {
+//     console.log(b, a);
+// }
